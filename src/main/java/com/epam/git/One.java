@@ -5,5 +5,6 @@ public class One {
         System.out.println("This is class One");
         System.out.println("for pull merge");
         System.out.println("test pull merge");
+        System.out.println("test cherry pick");
     }
 }
