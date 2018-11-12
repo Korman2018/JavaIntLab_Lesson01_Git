@@ -5,6 +5,8 @@ public class Five {
         System.out.println("This is class Five");
         System.out.println("do some changes");
         System.out.println("test amend2");
+        System.out.println("test rebase5");
+        System.out.println("test rebase6");
         System.out.println("test rebase7");
     }
 }
