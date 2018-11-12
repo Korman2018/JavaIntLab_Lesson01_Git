@@ -8,5 +8,6 @@ public class One {
         System.out.println("test cherry pick");
         System.out.println("Test revert1");
         System.out.println("Test revert2");
+        System.out.println("Test revert3");
     }
 }
