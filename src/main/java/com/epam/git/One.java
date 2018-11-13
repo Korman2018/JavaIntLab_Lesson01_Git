@@ -7,6 +7,6 @@ public class One {
         System.out.println("test pull merge");
         System.out.println("test cherry pick");
         System.out.println("test cherry pick2");
-        System.out.println("test amend");
+        System.out.println("test amend1");
     }
 }
